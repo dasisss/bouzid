@@ -1,5 +1,7 @@
 /* ====== تنسيقات RTL للموقع الأكاديمي ====== */
-
+ ```css
+   /*-- scss:rules --*/
+   ```
 :root {
   --arabic-font: 'Noto Naskh Arabic', 'Traditional Arabic', 'Arial', serif;
 }
