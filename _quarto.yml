@@ -38,8 +38,6 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - styles.css
     css: styles.css
     toc: true
     toc-location: right
