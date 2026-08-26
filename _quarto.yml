@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "البوابة الأكاديمية"
+  site-url: https://yourname.github.io
+  repo-url: https://github.com/yourname/yourname.github.io
+  navbar:
+    right:
+      - text: "🏠 الرئيسية"
+        href: index.qmd
+      - text: "👤 عني"
+        href: about.qmd
+      - text: "📚 المنشورات"
+        href: publications.qmd
+      - text: "🎓 التدريس"
+        href: teaching.qmd
+      - text: "🔬 الأبحاث"
+        href: research.qmd
+      - text: "📧 اتصل بي"
+        href: contact.qmd
+    tools:
+      - icon: github
+        href: https://github.com/yourname
+      - icon: envelope
+        href: mailto:your.email@univ.dz
+  page-footer:
+    left: "© 2026 — جميع الحقوق محفوظة"
+    center: "مدعوم بـ Quarto + GitHub Pages"
+    right:
+      - icon: github
+        href: https://github.com/yourname
+  search:
+    location: navbar
+    type: textbox
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.css
+    css: styles.css
+    toc: true
+    toc-location: right
+    lang: ar
+    dir: rtl
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+bibliography: references.bib
+csl: https://www.zotero.org/styles/chicago-author-date-arabic

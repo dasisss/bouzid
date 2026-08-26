@@ -1,0 +1,72 @@
+---
+title: "المنشورات العلمية"
+---
+
+## المقالات المنشورة
+
+### 2026
+
+::: {.pub-item}
+<span class="pub-year">2026</span>
+<p class="pub-title">الطاقات المتجددة وإعادة تشكيل منظومة الأمن الطاقوي في الجزائر</p>
+<p class="pub-journal">مجلة العلوم القانونية والسياسية، المجلد XX، العدد X، ص. XX-XX</p>
+<p class="pub-links">
+[📄 PDF](files/paper1.pdf)
+[🔗 DOI](https://doi.org/10.xxxx/xxxxx)
+</p>
+:::
+
+### 2025
+
+::: {.pub-item}
+<span class="pub-year">2025</span>
+<p class="pub-title">أمن الطاقة والتحول الطاقوي في الدول النفطية</p>
+<p class="pub-journal">مجلة القانون والمجتمع، المجلد XX، العدد X، ص. XX-XX</p>
+<p class="pub-links">
+[📄 PDF](files/paper2.pdf)
+[🔗 DOI](https://doi.org/10.xxxx/xxxxx)
+</p>
+:::
+
+### 2024
+
+::: {.pub-item}
+<span class="pub-year">2024</span>
+<p class="pub-title">[عنوان المقال]</p>
+<p class="pub-journal">[اسم المجلة]</p>
+<p class="pub-links">
+[📄 PDF](files/paper3.pdf)
+</p>
+:::
+
+## الكتب
+
+::: {.pub-item}
+<span class="pub-year">2025</span>
+<p class="pub-title">[عنوان الكتاب]</p>
+<p class="pub-journal">دار النشر — المدينة — ISBN: 978-XXX-XXXX-XX-X</p>
+<p class="pub-links">
+[📄 معاينة](files/book1.pdf)
+</p>
+:::
+
+## المؤتمرات
+
+::: {.pub-item}
+<span class="pub-year">2025</span>
+<p class="pub-title">[عنوان المداخلة]</p>
+<p class="pub-journal">المؤتمر الدولي [اسم المؤتمر] — المدينة — الجزائر</p>
+<p class="pub-links">
+[📄 ملخص](files/conf1.pdf)
+</p>
+:::
+
+## المراجع من Zotero
+
+1. افتح Zotero
+2. اذهب إلى File → Export Library
+3. اختر صيغة **BibTeX**
+4. احفظ الملف باسم `references.bib` في مجلد المشروع
+5. سيُعرض تلقائيًا في صفحة المنشورات
+
+> استبدل `[...]` ببياناتك الحقيقية، وأضف ملفات PDF في مجلد `files/`.

@@ -1,0 +1,37 @@
+---
+title: "اتصل بي"
+---
+
+## معلومات التواصل
+
+::: {.contact-grid}
+
+::: {.contact-item}
+<div class="icon">📧</div>
+### البريد الإلكتروني
+[your.email@univ.dz](mailto:your.email@univ.dz)
+:::
+
+::: {.contact-item}
+<div class="icon">🏛️</div>
+### العنوان المهني
+كلية الحقوق والعلوم السياسية
+جامعة [اسم الجامعة]
+الجزائر
+:::
+
+::: {.contact-item}
+<div class="icon">🎓</div>
+### Google Scholar
+[الملف الشخصي](https://scholar.google.com)
+:::
+
+::: {.contact-item}
+<div class="icon">🆔</div>
+### ORCID
+[0000-0000-0000-0000](https://orcid.org)
+:::
+
+:::
+
+> يمكن للطلبة والباحثين التواصل معي عبر البريد الجامعي للاستفسارات الأكاديمية.
